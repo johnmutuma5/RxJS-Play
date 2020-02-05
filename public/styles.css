@@ -28,6 +28,10 @@ body {
   font-size: .75em;
 }
 
+.text-gray-200 {
+  color: #bbb;
+}
+
 .p-2 {
   padding: .75rem;
 }
